@@ -1,0 +1,33 @@
+{
+  "name": "angular-mobile-detect",
+  "version": "0.4.3",
+  "homepage": "https://github.com/guilhermegeek/angular-mobile-detect",
+  "authors": [
+    "Guilherme Cardoso <email@guilhermecardoso.pt>"
+  ],
+  "description": "Angular wrapper for mobile-detect library. Device detection (phone, tablet, desktop, mobile grade, os, versions)",
+  "main": "dist/angular-mobile-detect.js",
+  "keywords": [
+    "useragent",
+    "mobile",
+    "phone",
+    "tablet",
+    "detect",
+    "device",
+    "browser",
+    "version",
+    "mobilegrade",
+    "sniff"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mobile-detect": "~0.4.3"
+  }
+}

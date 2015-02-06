@@ -1,0 +1,27 @@
+{
+  "name": "angular-mobile-detect",
+  "version": "0.0.1",
+  "description": "Angular service wrapper for https://github.com/hgoebl/mobile-detect.js/",
+  "main": "dist/angular-mobile-detect.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermegeek/angular-mobile-detect"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermegeek/angular-mobile-detect/issues"
+  },
+  "homepage": "https://github.com/guilhermegeek/angular-mobile-detect"
+}
